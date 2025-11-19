@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135820326072",
+    "project_id": "adivinaemoji-b43d3",
+    "storage_bucket": "adivinaemoji-b43d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135820326072:android:7cf3788237849ae141704d",
+        "android_client_info": {
+          "package_name": "com.javierf.adivinaemoji"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpLfHRE2F3zpeHmf2xG9DjmvS6Jf-xh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
